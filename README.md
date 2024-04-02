@@ -4,6 +4,8 @@ The Weather App is a Java-based application that provides users with real-time w
 
 You can check out the full tutorial where I will guide and you and explain the steps in this YouTube video: link
 
+![image](https://github.com/Harini-chitra/weatherappgui/assets/127502312/5077ea35-15ac-4fff-866f-fbf54f8bcc04)
+
 
 
 Technologies Used
